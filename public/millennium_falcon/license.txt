@@ -1,0 +1,11 @@
+Model Information:
+* title:	Medieval Street
+* source:	https://sketchfab.com/3d-models/medieval-street-9591998ceb684cb18fad080912d62c5b
+* author:	Larry (https://sketchfab.com/laurent-dem1994)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Medieval Street" (https://sketchfab.com/3d-models/medieval-street-9591998ceb684cb18fad080912d62c5b) by Larry (https://sketchfab.com/laurent-dem1994) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
